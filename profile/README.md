@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/go-on-travel/.github-private/main/goon-travel_logo.svg?token=GHSAT0AAAAAACG6HFFZP2UAULW3YFOH2NHMZK6LWVQ" width="100%">
+<img src="https://raw.githubusercontent.com/go-on-travel/.github/main/goon-travel_logo.svg" width="100%">
 
 ## Go-on Travel 👋
 The overview of the Go-on Travel organization. However, most of it is "members only".
